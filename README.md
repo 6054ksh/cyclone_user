@@ -1,4 +1,4 @@
-# cyclone_user
+# microbit RCcar controller
 input.onButtonPressed(Button.AB, function () {
     radio.sendNumber(10)
     basic.showLeds(`
